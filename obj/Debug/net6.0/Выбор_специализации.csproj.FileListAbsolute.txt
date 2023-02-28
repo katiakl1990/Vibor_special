@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Выбор_специализации\bin\Debug\net6.0\Выбор_специализации.exe
+C:\Users\Lenovo\Desktop\Выбор_специализации\bin\Debug\net6.0\Выбор_специализации.deps.json
+C:\Users\Lenovo\Desktop\Выбор_специализации\bin\Debug\net6.0\Выбор_специализации.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Выбор_специализации\bin\Debug\net6.0\Выбор_специализации.dll
+C:\Users\Lenovo\Desktop\Выбор_специализации\bin\Debug\net6.0\Выбор_специализации.pdb
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.dll
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\refint\Выбор_специализации.dll
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.pdb
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\Выбор_специализации.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Выбор_специализации\obj\Debug\net6.0\ref\Выбор_специализации.dll
